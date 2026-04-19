@@ -48,3 +48,6 @@ This script starts the Rclone server in the background and automatically opens i
 
 ## 📝 Blog Post
 I have documented the complete thought process and detailed steps in my Medium blog post: [Link to be added]
+
+
+Last updated: 2026-04-19 →
